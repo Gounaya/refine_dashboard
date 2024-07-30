@@ -1,0 +1,29 @@
+# Dossiers et fichiers générés par Node.js et npm
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Fichiers de build
+build/
+dist/
+out/
+.next/
+
+# Fichiers de cache
+.cache/
+*.log
+
+# Fichiers d'environnement
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Fichiers de sauvegarde
+*.bak
+*.swp
+*~
+
+# Fichiers système
+.DS_Store
+Thumbs.db
